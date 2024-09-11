@@ -1,3 +1,6 @@
+*.map
+*.vsidx
+bootstrap.*
 ###################
 # compiled source #
 ###################
