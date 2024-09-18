@@ -1,6 +1,9 @@
+*.min.js
+*.bin
+*.v2
 *.map
 *.vsidx
-bootstrap.*
+bootstrap*
 ###################
 # compiled source #
 ###################
