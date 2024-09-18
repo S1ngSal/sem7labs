@@ -4,7 +4,6 @@
 *.map
 *.vsidx
 *.css.map
-*.rtl.css
 *.min.css
 ###################
 # compiled source #
