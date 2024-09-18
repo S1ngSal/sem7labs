@@ -3,7 +3,9 @@
 *.v2
 *.map
 *.vsidx
-bootstrap*
+*.css.map
+*.rtl.css
+*.min.css
 ###################
 # compiled source #
 ###################
