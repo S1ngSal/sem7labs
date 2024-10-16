@@ -1,9 +1,6 @@
-*.min.js
 *.bin
 *.v2
-*.map
 *.vsidx
-*.css.map
 ###################
 # compiled source #
 ###################
